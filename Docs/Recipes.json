@@ -1,0 +1,107 @@
+{
+  "recipes": [
+    {
+      "name": "Chewy Tahini Chocolate Chip Cookies",
+      "description": "Delicious tahini cookies with chocolate chips",
+      "servings": 12,
+      "prepTime": 20,
+      "cookTime": 11,
+      "category": ["Dessert", "Cookies"],
+      "difficulty": "Medium",
+      "createdAt": "2025-06-02T00:00:00Z",
+      "imageUrl": "",
+      "rating": 5,
+      "notes": "Best served with milk",
+      "createdById": "Unknown",
+      "ingredients": [
+        {
+          "amount": 150,
+          "unit": "g",
+          "name": "Dark Chocolate"
+        },
+        {
+          "amount": 80,
+          "unit": "g",
+          "name": "Tahini"
+        },
+        {
+          "amount": 100,
+          "unit": "g",
+          "name": "Olive Oil"
+        },
+        {
+          "amount": 100,
+          "unit": "g",
+          "name": "Brown Sugar"
+        },
+        {
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "name": "Sea Salt"
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "name": "Cinnamon"
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "name": "Coffee Powder"
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "name": "Maple Syrup or Honey"
+        },
+        {
+          "amount": 1,
+          "unit": "large",
+          "name": "Egg"
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "name": "Baking Soda"
+        },
+        {
+          "amount": 190,
+          "unit": "g",
+          "name": "All Purpose Flour"
+        }
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "description": "Refrigerate for a couple hours.",
+          "duration": 120
+        },
+        {
+          "stepNumber": 2,
+          "description": "Preheat the oven to 180°C.",
+          "duration": 10
+        },
+        {
+          "stepNumber": 3,
+          "description": "Form little balls of dough.",
+          "duration": 10
+        },
+        {
+          "stepNumber": 4,
+          "description": "Bake for 11 minutes.",
+          "duration": 11
+        },
+        {
+          "stepNumber": 5,
+          "description": "After taking the cookies from the oven, bang the tray on the counter.",
+          "duration": 1
+        },
+        {
+          "stepNumber": 6,
+          "description": "Let fully cool down before eating.",
+          "duration": 30
+        }
+      ]
+    }
+  ]
+}
